@@ -1,0 +1,4 @@
+name: OtpBotKoyeb
+type: node
+buildCommand: npm install
+runCommand: npm start
